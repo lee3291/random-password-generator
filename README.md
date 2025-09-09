@@ -2,7 +2,8 @@
 
 A simple, clean, and easy-to-use web application for generating strong, random passwords. This tool allows users to specify the length and character types to be included in their new password, providing a quick and secure solution for password creation.
 
-![Screenshot of the Password Generator](./screenshot.png)
+![Screenshot of the Password Generator](./images/screenshot1.png)
+![Screenshot of the Password Generator](./images/screenshot2.png)
 
 ## Features
 
