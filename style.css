@@ -1,0 +1,68 @@
+body {
+    background-color: ivory;
+    font-family: "Arial Rounded MT Bold";
+    text-align: center;
+}
+
+h1 {
+    background-color: hsl(25, 40%, 65%);
+    padding: 10px 0px;
+    border-radius: 10px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    color: ivory;
+}
+
+#output {
+    margin: 10px;
+    font-size: 1.1em;
+}
+
+#passwordLength {
+    background-color: hsl(25, 45%, 65%);
+    color: ivory;
+    border-radius: 5px;
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 1.1em;
+    font-family: "Arial Rounded MT Bold";
+    border-width: 0.1px;
+}
+
+#passwordLength:hover {
+    background-color: hsl(25, 45%, 70%);
+}
+
+#passwordLength::placeholder {
+    color: rgb(220, 220, 218);
+    font-size: 0.9em;
+}
+
+#passwordLength:focus::placeholder {
+    color: transparent;
+}
+
+#generatePassword {
+    background-color: hsl(25, 45%, 65%);
+    color: white;
+    border-radius: 5px;
+    font-family: "Arial Rounded MT Bold";
+    font-size: 1.1em;
+    padding: 5px;
+    border-width: 0;
+}
+
+#generatePassword:hover {
+    background-color: hsl(25, 45%, 70%);
+    cursor: pointer;
+}
+
+form {
+    margin: 10px;
+}
+
+form label {
+    padding: 10px;
+}
