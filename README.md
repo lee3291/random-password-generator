@@ -27,18 +27,21 @@ A simple, clean, and easy-to-use web application for generating strong, random p
 No installation is required. This is a purely front-end project that runs in any modern web browser.
 
 1.  **Download or Clone the Repository**
+
     ```bash
-    git clone [https://github.com/lee3291/random-password-generator.git](https://github.com/lee3291/random-password-generator.git)
+    git clone https://github.com/lee3291/random-password-generator.git
     ```
+
     (Or simply download the ZIP file containing `index.html`, `style.css`, and `index.js`)
 
 2.  **Open the Application**
+
     Navigate to the project folder and open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge).
 
 3.  **Generate Your Password!**
-    -   Enter your desired password length.
-    -   Check the boxes for the character types you want to include.
-    -   Click the "Click" button to generate your new password.
+    * Enter your desired password length.
+    * Check the boxes for the character types you want to include.
+    * Click the "Click" button to generate your new password.
 
 ## File Structure
 
